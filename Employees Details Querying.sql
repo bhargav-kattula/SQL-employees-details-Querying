@@ -1,4 +1,4 @@
---Employee details & employee salary Project--
+--Employee personel details & employee Work details Querying--
 
 
 CREATE TABLE Emp_personal_details
